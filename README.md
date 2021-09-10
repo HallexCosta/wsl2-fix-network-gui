@@ -8,3 +8,4 @@ Click to [here](https://github.com/HallexCosta/wsl2-fix-network-gui/releases/tag
 
 References:  
 [Expo with WSL2 Over Lan](https://forums.expo.dev/t/expo-with-wsl2-over-lan/38817)
+[How automation works behind the scenes](https://gist.github.com/HallexCosta/c090c1dfe5e6ff26333ad8d29bb6aed9)
